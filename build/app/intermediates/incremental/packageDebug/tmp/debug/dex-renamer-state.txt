@@ -1,0 +1,4 @@
+#Sun Nov 27 10:19:24 EET 2022
+base.0=/home/erhy/project/Flutter/flutter-googlemaps-nearbyplaces/flutter-googlemaps-nearbyplaces-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
